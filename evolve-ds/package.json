@@ -1,6 +1,6 @@
 {
-  "name": "simple-ds",
-  "description": "Test publishing design system for Simple Design System",
+  "name": "evolve-ds",
+  "description": "Test publishing design system for simple design system",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
